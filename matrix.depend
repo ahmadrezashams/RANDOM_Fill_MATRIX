@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1434393926 source:/home/night/Desktop/matrix/main.cpp
+	<iostream>
+	<cstdlib>
+
+1441639418 source:d:\project\matrix\c++\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
