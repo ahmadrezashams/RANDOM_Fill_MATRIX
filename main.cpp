@@ -16,6 +16,10 @@ int main()
     for (i=0;i<n;i++)
         for (j=0;j<n;j++)
             matrix[i][j]=rand() % 2;
+    //Disable Arrow
+     for (i=0;i<n;i++)
+        for (j=0;j<n;j++)
+            matrix[i][j]=matrix[j][i];
     cout<<endl<<"Result's"<<endl<<endl;
     for (i=0;i<n;i++)
     {
